@@ -6,9 +6,9 @@ I build data-driven dashboards and AI-powered systems that help businesses autom
 
 ##  What I Do
 - Data Analytics & BI: SQL, Excel, Power BI, Tableau – I help organisations uncover trends, monitor KPIs, and make data-driven decisions.
-- Machine Learning & AI: Predictive modelling, classification, and deep learning with Python, scikit-learn, PyTorch, and TensorFlow.
+- Machine Learning & AI: Predictive modelling, classification, and deep learning with Python, scikit-learn.
 - Generative AI: Building RAG pipelines, GPT-powered bots, and NLP-based applications.
-- Real Estate AI Projects: Working on PropIntel – a smart global property recommendation platform powered by data and ML.
+- Real Estate AI Projects: Working on PropIntel – a smart global property recommendation platform powered by data.
 - Deployment & Tools: Docker, Streamlit, Flask, Git, Hugging Face, and LangChain.
 
 ##  Featured Projects
