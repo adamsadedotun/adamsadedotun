@@ -4,7 +4,7 @@
 
 I build **data-driven and AI-powered systems** that help businesses automate decisions, extract insights, and improve operational efficiency.
 
-My work spans **data analytics, machine learning, and AI automation**, with a strong focus on **deploying real-world solutions** — not just building models.
+My work spans **data analytics, machine learning, and AI automation**, with a strong focus on **deploying real-world solutions** not just building models.
 
 ---
 
@@ -112,7 +112,6 @@ I am currently seeking opportunities in:
 * Data Analyst roles
 * BI Analyst roles
 * AI Automation / Applied AI roles
-Particularly in **Eu
 
 ---
 
@@ -121,5 +120,5 @@ Particularly in **Eu
 * 💼 LinkedIn: https://www.linkedin.com/in/adedotun-adams
 * 💻 GitHub: https://github.com/adamsadedotun
 
-I don’t just analyze data —
+I don’t just analyze data 
 I build systems that **turn data into decisions and automation into results.**
