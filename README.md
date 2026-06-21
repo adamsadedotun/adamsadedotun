@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adams Adedotun
 
-## 🚀 Data Analyst | AI Automation & BI Engineer
+## 🚀 Data Analyst | AI Automation & Data Scientist
 
 I build **data-driven and AI-powered systems** that help businesses automate decisions, extract insights, and improve operational efficiency.
 
