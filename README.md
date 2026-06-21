@@ -1,72 +1,125 @@
-GitHub Profile README
-#  Hi, I’m Adedotun Adams
+# 👋 Hi, I'm Adams Adedotun
 
-Welcome to my GitHub! 
-I build data-driven dashboards and AI-powered systems that help businesses automate decisions, improve customer insights, and optimize operations.
+## 🚀 Data Analyst | AI Automation & BI Engineer
 
-##  What I Do
-- Data Analytics & BI: SQL, Excel, Power BI, Tableau – I help organisations uncover trends, monitor KPIs, and make data-driven decisions.
-- Machine Learning & AI: Predictive modelling, classification, and deep learning with Python, scikit-learn.
-- Generative AI: Building RAG pipelines, GPT-powered bots, and NLP-based applications.
-- Real Estate AI Projects: Working on PropIntel – a smart global property recommendation platform powered by data.
-- Deployment & Tools: Docker, Streamlit, Flask, Git, Hugging Face, and LangChain.
+I build **data-driven and AI-powered systems** that help businesses automate decisions, extract insights, and improve operational efficiency.
 
-##  Featured Projects
-- Business Intelligence & Decision Systems
-Include:
-Hospital Dashboard (Excel)
-Sales Analysis (Power BI)
-Sales Analysis (Tableau)
-Built dashboards to track KPIs, business performance, and operational insights.
+My work spans **data analytics, machine learning, and AI automation**, with a strong focus on **deploying real-world solutions** — not just building models.
 
-- Machine Learning & Predictive Modeling
-Include:
-Housing Price Regression
-Employee Turnover Prediction
-Healthcare Classification (Bagging, RF, XGBoost)
-Supervised + Unsupervised learning projects
-Built predictive models for classification and regression problems using real-world datasets.
+---
 
-- Data Engineering & SQL Analytics
-Include:
-COVID analysis
-Fraud detection
-Market analysis
-Extracted insights from structured datasets using SQL-based analytical workflows. 
+## 💡 What I Do
 
-- AI Automation & Generative AI Systems
-Include:
-Sales chatbot (3A Empire Ltd chatbot)
-GPT MCQ generator
-n8n automations (VERY IMPORTANT)
-AI integrations
-Built AI-powered automation systems using GPT APIs and workflow tools to automate business processes.
+* 📊 Analyze and visualize data to drive business decisions
+* 🧠 Build machine learning models for prediction and classification
+* 🤖 Develop AI-powered automation systems using GPT APIs and workflows
+* 🚀 Deploy applications using Docker and cloud-based tools
 
--  Deployment & Production Systems
-Include:
-Dockerized AI applications
-Cloudflared tunnel deployments
-n8n automation workflows (if deployed)
-chatbot hosting
-Experience deploying AI and data applications into production environments using containerization and tunneling technologies.
+---
 
- Let’s Connect
--  [Portfolio](https://adamsportfolios.netlify.app/)
--  [LinkedIn](https://www.linkedin.com/in/adedotunadams)
- “I turn data into insights, and insights into action.”
+## 🧩 Core Skills
 
-Thanks for visiting!
-<!--
-**adamsadedotun/adamsadedotun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analytics & BI**
 
-Here are some ideas to get you started:
+* SQL, Excel, Power BI, Tableau
+* Dashboard development & KPI tracking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Machine Learning**
+
+* Python (Pandas, NumPy, Scikit-learn)
+* Regression, Classification, Model Evaluation
+* XGBoost, Random Forest, Logistic Regression
+
+**AI Automation & Systems**
+
+* GPT API integrations
+* n8n workflow automation
+* Chatbot development
+
+**Deployment & Engineering**
+
+* Docker (containerization)
+* Cloudflared (secure tunneling & deployment)
+* Streamlit / Web app deployment
+
+---
+
+## 📊 Featured Projects
+
+### 📌 AI Automation & Generative Systems
+
+* **AI Sales Chatbot (3A Empire)**
+  Built and deployed a conversational AI system to automate customer interactions and sales processes.
+
+* **GPT-based MCQ Generator**
+  Automated question generation using AI for scalable educational content.
+
+* **n8n Automation Workflows**
+  Designed automated pipelines integrating APIs and AI services to streamline tasks.
+
+---
+
+### 📌 Business Intelligence & Decision Systems
+
+* **Sales Dashboard (Power BI & Tableau)**
+  Built interactive dashboards to track revenue, performance, and KPIs.
+
+* **Hospital Dashboard (Excel)**
+  Visualized operational and healthcare metrics for decision-making.
+
+---
+
+### 📌 Machine Learning & Predictive Modeling
+
+* **Customer Churn Prediction**
+  Built predictive models to identify customer retention risks.
+
+* **Employee Turnover Analysis**
+  Developed models to forecast workforce attrition.
+
+* **Healthcare Classification System**
+  Compared multiple ML models (Bagging, Random Forest, XGBoost) for optimal performance.
+
+* **Housing Price Prediction**
+  Applied regression techniques to estimate property values.
+
+---
+
+### 📌 Data Engineering & SQL Analytics
+
+* **COVID-19 Data Analysis (SQL)**
+* **Fraud Detection Analysis (SQL)**
+* **Market & Customer Segmentation Analysis**
+
+Extracted insights from structured datasets using SQL-based workflows.
+
+---
+
+## 🚀 Deployment Experience
+
+I focus on delivering **production-ready systems**, not just experiments:
+
+* Containerized applications using **Docker**
+* Deployed AI systems using **Cloudflared tunnels**
+* Built and launched real-time chatbot and automation tools
+
+---
+
+## 🎯 What I’m Looking For
+
+I am currently seeking opportunities in:
+
+* Data Analyst roles
+* BI Analyst roles
+* AI Automation / Applied AI roles
+Particularly in **Eu
+
+---
+
+## 🌍 Let’s Connect
+
+* 💼 LinkedIn: https://www.linkedin.com/in/adedotun-adams
+* 💻 GitHub: https://github.com/adamsadedotun
+
+I don’t just analyze data —
+I build systems that **turn data into decisions and automation into results.**
